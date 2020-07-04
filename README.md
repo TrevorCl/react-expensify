@@ -1,2 +1,0 @@
-# react-expensify
-React development
